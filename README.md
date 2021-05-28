@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm [Kowsik Nandagopan D](https://dkowsikpai.github.io/), fervid in full-stack development and mobile development. Data Analyst with demonstrable experience in machine learning and data analysis. Currently, pursuing B.Tech in Computer Science at [Government Engineering College, Thrissur](http://gectcr.ac.in/)
+
 <!--
 **dkowsikpai/dkowsikpai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
