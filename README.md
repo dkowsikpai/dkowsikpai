@@ -2,7 +2,9 @@
 
 I'm [Kowsik Nandagopan D](https://dkowsikpai.github.io/), NLP enthusiast, fervid in full-stack development, deep learning and mobile development. DL/ML Engineer with demonstrable experience. Completed B.Tech in Computer Science and Engineering from [Government Engineering College, Thrissur](http://gectcr.ac.in/). Currently, pursuing M.Tech in Computer Science and Engineering from [IIT Gandhinagar](https://iitgn.ac.in/)
 
-![](https://komarev.com/ghpvc/?username=dkowsikpai&style=for-the-badge)
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=dkowsikpai&style=for-the-badge" alt="dkowsikpai" />
+</p>
 
 <!--
 **dkowsikpai/dkowsikpai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
