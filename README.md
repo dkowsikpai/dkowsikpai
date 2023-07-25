@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[Kowsik Nandagopan D](https://dkowsikpai.github.io/) is an NLP enthusiast who is fervid in full-stack development, deep learning, and mobile development. DL/ML Engineer with demonstrable experience. 
+[Kowsik Nandagopan D](https://dkowsikpai.github.io/) is an NLP enthusiast who is fervid in DL/ML, full-stack development, and mobile development. DL/ML Engineer with demonstrable experience. 
 - 🔭 Currently pursuing M.Tech in Computer Science and Engineering from [IIT Gandhinagar](https://iitgn.ac.in/).
 - 🌱 Specializing in NLP under the supervision of [Prof. Mayank Singh](https://mayank4490.github.io/).
 - ✅ Completed his B.Tech in Computer Science and Engineering from [Government Engineering College, Thrissur](http://gectcr.ac.in/). 
