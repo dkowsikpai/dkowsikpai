@@ -4,6 +4,9 @@ I'm [Kowsik Nandagopan D](https://dkowsikpai.github.io/), NLP enthusiast, fervid
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=dkowsikpai&style=for-the-badge" alt="dkowsikpai" />
+  <a href="mailto:dkowsikpai@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="dkowsikpai" /></a>
+  <a href="https://twitter.com/kndcse"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="kndcse" /></a>
+  <a href="https://www.instagram.com/kndcse/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="dkowsikpai" /></a>
 </p>
 
 <!--
