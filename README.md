@@ -1,10 +1,15 @@
 ### Hi there 👋
 
-I'm [Kowsik Nandagopan D](https://dkowsikpai.github.io/), NLP enthusiast, fervid in full-stack development, deep learning and mobile development. DL/ML Engineer with demonstrable experience. Completed B.Tech in Computer Science and Engineering from [Government Engineering College, Thrissur](http://gectcr.ac.in/). Currently, pursuing M.Tech in Computer Science and Engineering from [IIT Gandhinagar](https://iitgn.ac.in/)
+[Kowsik Nandagopan D](https://dkowsikpai.github.io/) is an NLP enthusiast who is fervid in full-stack development, deep learning, and mobile development. DL/ML Engineer with demonstrable experience. 
+- 🔭 Currently pursuing M.Tech in Computer Science and Engineering from [IIT Gandhinagar](https://iitgn.ac.in/).
+- 🌱 Specializing in NLP under the supervision of [Prof. Mayank Singh](https://mayank4490.github.io/).
+- ✅ Completed his B.Tech in Computer Science and Engineering from [Government Engineering College, Thrissur](http://gectcr.ac.in/). 
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=dkowsikpai&style=for-the-badge" alt="dkowsikpai" />
+  <a href="https://www.linkedin.com/in/kowsik-nandagopan-d/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="kowsik-nandagopan-d" /></a>
   <a href="mailto:dkowsikpai@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="dkowsikpai" /></a>
+  <a href="https://dkowsikpai.github.io/"><img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" alt="kndcse" /></a>
   <a href="https://twitter.com/kndcse"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="kndcse" /></a>
   <a href="https://www.instagram.com/kndcse/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="dkowsikpai" /></a>
 </p>
