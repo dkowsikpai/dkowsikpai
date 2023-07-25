@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**Kowsik Nandagopan D - Unleashing the Magic of NLP and Beyond!** ✨
+**[Kowsik Nandagopan D](https://dkowsikpai.github.io/) - Unleashing the Magic of NLP and Beyond!** ✨
 
 🚀 An NLP enthusiast, soaring high with a fervor for DL/ML, full-stack, and mobile development. A skilled DL/ML Engineer, proving expertise through tangible accomplishments.
 
