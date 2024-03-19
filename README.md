@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-**[Kowsik Nandagopan D](https://dkowsikpai.github.io/) - Unleashing the Magic of NLP and Beyond!** ✨
+**[Kowsik Nandagopan D](https://dkowsikpai.github.io/) - Unleashing the Magic of AI/ML and Beyond!** ✨
 
-🚀 An NLP enthusiast, soaring high with a fervor for DL/ML, full-stack, and mobile development. A skilled DL/ML Engineer, proving expertise through tangible accomplishments.
+🚀 An AI/ML enthusiast, soaring high with a fervor for DL/ML, full-stack, and mobile development. A skilled DL/ML Engineer, proving expertise through tangible accomplishments.
 
 🎓 Education:
 - 🔭 Currently pursuing M.Tech in Computer Science and Engineering at [IIT Gandhinagar](https://iitgn.ac.in/).
