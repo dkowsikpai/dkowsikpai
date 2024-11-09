@@ -2,6 +2,14 @@
 
 **[Kowsik Nandagopan D](https://dkowsikpai.github.io/) - Unleashing the Magic of AI/ML and Beyond!** ✨
 
+🚀 An NLP enthusiast, soaring high with a fervor for DL/ML, full-stack, and mobile development. A skilled DL/ML Engineer, proving expertise through tangible accomplishments.
+
+🌱 Working as Scientist in [C-DoT](https://www.cdot.in/cdotweb/web/home.php), R&D Centre in Telecom owned by Govt of India.
+🎓 Completed MTech in Computer Science and Engineering from [IIT Gandhinagar](https://iitgn.ac.in/).
+📖 Specialized in the captivating realm of NLP, mentored by the esteemed [Prof. Mayank Singh](https://mayank4490.github.io/) at Lingo Lab IITGN.
+✅ Embarked on the journey with a BTech in Computer Science from [Government Engineering College, Thrissur](http://gectcr.ac.in/).
+
+<!--
 🚀 An AI/ML enthusiast, soaring high with a fervor for DL/ML, full-stack, and mobile development. A skilled DL/ML Engineer, proving expertise through tangible accomplishments.
 
 🎓 Education:
@@ -9,7 +17,7 @@
 - 🌱 Specializing in the captivating realm of NLP, mentored by the esteemed [Prof. Mayank Singh](https://mayank4490.github.io/).
 - ✅ Embarked on the journey with a B.Tech in Computer Science and Engineering from [Government Engineering College, Thrissur](http://gectcr.ac.in/).
 
-<!--
+
 [Kowsik Nandagopan D](https://dkowsikpai.github.io/) is an NLP enthusiast who is fervid in DL/ML, full-stack development, and mobile development. DL/ML Engineer with demonstrable experience. 
 - 🔭 Currently pursuing M.Tech in Computer Science and Engineering from [IIT Gandhinagar](https://iitgn.ac.in/).
 - 🌱 Specializing in NLP under the supervision of [Prof. Mayank Singh](https://mayank4490.github.io/).
